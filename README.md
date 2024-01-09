@@ -1,7 +1,7 @@
 # Multiverse Hub 
 This meant to be a web browser based, social building game like Habbo Hotel.
 
-This Unity project combines a grid-based interior design system and an inventory management system to create a versatile environment for designing and interacting with virtual interiors. The system is composed of several scripts that facilitate grid management, interior object placement, and inventory control.
+This Unity project combines a grid-based interior design system and an inventory management system to create a versatile environment for designing and interacting with virtual interiors. The system is composed of several scripts that facilitate grid management, interior object placement, inventory control and player movement.
 
 ### Grid-Based Interior Design System:
 The GridManager script establishes a grid layout within the Unity scene, allowing users to design interiors based on a grid structure. It supports customizable grid dimensions, visibility toggling, and mouse-based interactions. Interior objects are categorized into floors, walls, and furniture, each with distinct functionalities.

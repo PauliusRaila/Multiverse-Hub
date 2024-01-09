@@ -10,7 +10,7 @@ Screenshots:
 ![Screenshot 2023-12-23 142551](https://github.com/PauliusRaila/Multiverse-Hub/assets/28274535/3567d16e-651e-4b3b-819a-6953355aceb6)
 ![Screenshot 2023-12-23 142654](https://github.com/PauliusRaila/Multiverse-Hub/assets/28274535/30e863f4-fd0d-40d3-b76e-16cff5841081)
 ![Screenshot 2023-12-23 142805](https://github.com/PauliusRaila/Multiverse-Hub/assets/28274535/a3106003-0915-444d-9202-fb6222a3bee9)
-<details open>
+<details closed>
 <summary>Want to ruin the surprise?</summary>
 <br>
 Well, you asked for it!

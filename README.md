@@ -5,7 +5,7 @@ This Unity project combines a grid-based interior design system and an inventory
 # Grid-Based Interior Design System:
 The GridManager script establishes a grid layout within the Unity scene, allowing users to design interiors based on a grid structure. It supports customizable grid dimensions, visibility toggling, and mouse-based interactions. Interior objects are categorized into floors, walls, and furniture, each with distinct functionalities.
 
-# MapEditor:
+### MapEditor:
 The MapEditor script serves as the control center for the interior design system. It enables mode switching between player and editor modes using the Tab key. Users can pick up, rotate, and place interior objects within the grid. The editor mode includes features such as object spawning from templates, tooltip displays, and the ability to change wall colors and visibility.
 
 # Inventory Management System:

@@ -1,5 +1,7 @@
 Multiverse Hub meant to be a web browser based, social building game like Habbo Hotel.
 
+This Unity project combines a grid-based interior design system with an inventory management feature. Users can design interiors on a grid, pick up and place objects, and manage an inventory of items. The system includes a versatile MapEditor, a GridManager for layout control, and a comprehensive Inventory system with item tracking. The PlayerController script enables grid-based character movement. 
+
 ## Video
 https://github.com/PauliusRaila/Multiverse-Hub/assets/28274535/89daab77-a685-4084-ad4d-e462951c6bdb
 ## Screenshots

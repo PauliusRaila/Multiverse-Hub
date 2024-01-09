@@ -1,4 +1,5 @@
-Multiverse Hub meant to be a web browser based, social building game like Habbo Hotel.
+#Multiverse Hub 
+This meant to be a web browser based, social building game like Habbo Hotel.
 
 This Unity project combines a grid-based interior design system and an inventory management system to create a versatile environment for designing and interacting with virtual interiors. The system is composed of several scripts that facilitate grid management, interior object placement, and inventory control.
 

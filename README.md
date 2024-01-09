@@ -3,9 +3,8 @@ Multiverse Hub meant to be a web browser based, social building game like Habbo 
 
 https://github.com/PauliusRaila/Multiverse-Hub/assets/28274535/89daab77-a685-4084-ad4d-e462951c6bdb
 
-![](Packages/com.alelievr.mixture/Documentation~/Images/2020-11-04-01-04-59.png)
-
 <details closed>
+## Installation
 <summary style="font-size: 80px;">SCREENSHOTS</summary>
   
 ![Screenshot 2023-12-23 141838](https://github.com/PauliusRaila/Multiverse-Hub/assets/28274535/1bd32abc-f07c-47ae-99cf-49501c06b8cc)
